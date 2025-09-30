@@ -6,4 +6,4 @@ desta biblioteca, foi possível expandir os conhecimentos aprendidos em sala par
 um uso prático - a criação de um protótipo do clássico jogo de Atari Keystone
 Kapers. 
 
-Mais informações sobre o projeto podem ser encontradas na documentação anexada na pasta principal.
+Mais informações sobre o projeto podem ser encontradas na documentação.

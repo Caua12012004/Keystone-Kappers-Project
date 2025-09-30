@@ -1,0 +1,3 @@
+O KIT de desenvolvimento Allegro pode ser baixado na página do professor:
+
+https://pedroolmo.github.io/teaching/pds1.html#tp-allegro
